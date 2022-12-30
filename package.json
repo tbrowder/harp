@@ -61,7 +61,7 @@
   },
   "devDependencies": {
     "cheerio": "^0.22.0",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "nixt": "^0.5.1",
     "request": "^2.88.0",
     "should": "3.3.2"
